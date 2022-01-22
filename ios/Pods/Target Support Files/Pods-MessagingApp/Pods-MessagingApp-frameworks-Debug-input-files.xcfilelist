@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MessagingApp/Pods-MessagingApp-frameworks.sh
+${PODS_ROOT}/../../node_modules/@notifee/react-native/ios/NotifeeCore.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL
