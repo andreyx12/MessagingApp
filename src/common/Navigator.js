@@ -45,12 +45,12 @@ export default function Navigator() {
               options={ ( {navigation} ) => ({
                 headerRight: () => (
                   <Button mode="text" color={"#458f59"} onPress={() => dologout(navigation)}>
-                      {Constants.LOGOUT_SCREEN}
+                      Logout
                   </Button>
                 ),
                 headerLeft: () => (
                   <Button mode="text" color={"#458f59"} onPress={() => navigation.navigate(Constants.CONTACT_SCREEN)}>
-                      {Constants.CONTACT_SCREEN}
+                      Contacts
                   </Button>
                 )
               })}
